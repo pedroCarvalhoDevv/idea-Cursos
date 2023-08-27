@@ -62,3 +62,38 @@ ul li.item-menu a .icon > i{
     font-size: 30px;
     margin-left: 10px;
 }
+.topo{
+    /* background-color: aqua; */
+    display: flex;
+    text-align: center;
+    margin-inline-start: 100px;
+    align-items: center;
+}
+.topo img{
+    width: 22.941px;
+    height: 24px;
+
+}
+.logo-home{
+    display: flex;
+    align-items: center;
+    color: #3A25A7;
+    font-size: large;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px
+}
+.login-user{
+    display: flex;
+    margin-left: 80%;
+    align-items: center;
+    
+}
+.login-user i{
+    width: 100px;
+    height: 24px;
+
+}
